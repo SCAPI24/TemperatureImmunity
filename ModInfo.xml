@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mod>
+    <!-- Mod基本信息 -->
+    <ModInfo>
+        <Identifier>LogDemoMod</Identifier>
+        <LocalizedName>
+            <Text lang="en_US"></Text>
+            <Text lang="zh_CN">Mod日志demo</Text>
+            <!-- 可以添加更多语言支持 -->
+        </LocalizedName>
+        
+        <ModVersion>
+            <Version>1.0.0</Version>
+            <APIVersion>2.1.0</APIVersion>
+        </ModVersion>
+    </ModInfo>
+    
+    <!-- 依赖项 -->
+    <Dependencies>
+        <!-- 示例依赖项1 -->
+
+        <!-- 可以添加更多依赖项 -->
+    </Dependencies>
+</Mod>
