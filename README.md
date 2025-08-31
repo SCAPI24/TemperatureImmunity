@@ -1,22 +1,22 @@
-# TemperatureImmunity
+ï»¿# TemperatureImmunity
 
 Demo
-[SuAPI]ÌåÎÂ±£³Ö£¨ÊÊÓÃÓÚV0116²âÊÔ£©.scmod
-©À©¤©¤Lib/
-©¦   ©À©¤©¤ X64/
-©¦       ©¸©¤©¤ TemperatureImmunity.dll
-©¦   ©¸©¤©¤ Arm64/
-©¦       ©¸©¤©¤ TemperatureImmunity.dll
-©À©¤©¤ Content/
-©¦   ©¸©¤©¤ Textures
-©¸©¤©¤ ModInfo.xml
+[SuAPI]ä½“æ¸©ä¿æŒï¼ˆé€‚ç”¨äºV0116æµ‹è¯•ï¼‰.scmod
+â”œâ”€â”€Lib/
+â”‚   â”œâ”€â”€ X64/
+â”‚       â””â”€â”€ TemperatureImmunity.dll
+â”‚   â””â”€â”€ Arm64/
+â”‚       â””â”€â”€ TemperatureImmunity.dll
+â”œâ”€â”€ Content/
+â”‚   â””â”€â”€ Textures
+â””â”€â”€ ModInfo.xml
 
 Set in
 
 Application
-©À©¤©¤Survivalcraft.exe
-©À©¤©¤ Mods/
-    ©¸©¤©¤ [SuAPI]ÌåÎÂ±£³Ö£¨ÊÊÓÃÓÚV0116²âÊÔ£©.scmod
+â”œâ”€â”€Survivalcraft.exe
+â”œâ”€â”€ Mods/
+    â””â”€â”€ [SuAPI]ä½“æ¸©ä¿æŒï¼ˆé€‚ç”¨äºV0116æµ‹è¯•ï¼‰.scmod
 
 
 
