@@ -1,7 +1,7 @@
 # TemperatureImmunity
 
 Demo
---[SuAPI]体温保持（适用于V0116测试）.scmod
+[SuAPI]体温保持（适用于V0116测试）.scmod
 ├──Lib/
 │   ├── X64/
 │       └── TemperatureImmunity.dll
@@ -10,4 +10,6 @@ Demo
 ├── Content/
 │   └── Textures
 └── ModInfo.xml
+
+
 
